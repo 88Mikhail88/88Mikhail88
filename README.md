@@ -4,16 +4,16 @@
 
 <div id="badges">
   <a href="https://twitter.com/MikhailKupriya2">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://medium.com/@MikhailKupriya2">
-    <img src="https://img.shields.io/badge/Medium-black?logo=Medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://t.me/kupriianov88">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://teletype.in/@kupriianov88">
-    <img src="https://img.shields.io/badge/Teletype-black?logo=Teletype&logoColor=white&style=for-the-badge" alt="Teletype Badge"/>
+    <img src="https://img.shields.io/badge/Teletype-black?logo=Teletype&logoColor=white" alt="Teletype Badge"/>
   </a>
 </div>
 </div>
