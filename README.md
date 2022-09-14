@@ -21,3 +21,9 @@
 ---
 
 <h3>Home Validator</h3>
+
+---
+
+<div id="header" align="right">
+<h3>GitHub Stats</h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
