@@ -1,7 +1,11 @@
+---
+<div id="header" align="right">
+<h3>Home Validator</h3>
+
+---
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif?cid=ecf05e47svouk7n1hdv06dvyhz5l51d79w7vi16af5yow8vv&rid=giphy.gif&ct=s" width="300"/>
-
 <div id="badges">
   <a href="https://twitter.com/MikhailKupriya2">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,13 +21,6 @@
   </a>
 </div>
 </div>
-
----
-
-<h3>Home Validator</h3>
-
----
-
 <div id="header" align="right">
 <h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
