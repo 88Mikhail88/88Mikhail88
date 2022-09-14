@@ -24,3 +24,4 @@
 <div id="header" align="right">
 <h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
+<img src="https://komarev.com/ghpvc/?username=88Mikhail88&style=flat-square&color=blue" alt=""/>
