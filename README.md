@@ -20,11 +20,12 @@
     <img src="https://img.shields.io/badge/Teletype-black?logo=Teletype&logoColor=white" alt="Teletype Badge"/>
   </a>
   </div>
-  <div>
 
-  <div id="header" align="left"><h3>My last medium post:</h3>
-  <!-- BLOG-POST-LIST:START -->
-- [Sei заключила партнерство с KYVE для создания решений по передаче и хранению данных](https://medium.com/@MikhailKupriya2/sei-has-partnered-with-kyve-to-enable-data-feed-and-storage-solutions-984afa311d61?source=rss-10e84f172f22------2)
+<div id="header" align="left">
+
+### My last medium post :
+<!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
