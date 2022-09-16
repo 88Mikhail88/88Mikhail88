@@ -19,9 +19,16 @@
   <a href="https://teletype.in/@kupriianov88">
     <img src="https://img.shields.io/badge/Teletype-black?logo=Teletype&logoColor=white" alt="Teletype Badge"/>
   </a>
-</div>
-</div>
-<div id="header" align="right">
-<h3>GitHub Stats</h3>
+  </div>
+  <div>
+
+  <div id="header" align="left"><h3>My last medium post:</h3>
+  <!-- BLOG-POST-LIST:START -->
+  
+  <!-- BLOG-POST-LIST:END -->
+  
+  <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
 <img src="https://komarev.com/ghpvc/?username=88Mikhail88&style=flat-square&color=blue" alt=""/>
+
+  
