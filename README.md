@@ -25,7 +25,7 @@
 
 ### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Sei заключила партнерство с KYVE для создания решений по передаче и хранению данных](https://medium.com/@MikhailKupriya2/sei-has-partnered-with-kyve-to-enable-data-feed-and-storage-solutions-984afa311d61?source=rss-10e84f172f22------2)
+- [Токеномика Stride](https://medium.com/@MikhailKupriya2/stride-tokenomics-63b8c11d3ce5?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
