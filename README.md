@@ -24,8 +24,11 @@
 
   <div id="header" align="left"><h3>My last medium post:</h3>
   <!-- BLOG-POST-LIST:START -->
-  
-  <!-- BLOG-POST-LIST:END -->
+- [Sei заключила партнерство с KYVE для создания решений по передаче и хранению данных](https://medium.com/@MikhailKupriya2/sei-has-partnered-with-kyve-to-enable-data-feed-and-storage-solutions-984afa311d61?source=rss-10e84f172f22------2)
+- [Здравствуйте, сообщество Cosmic Horizon!](https://medium.com/@MikhailKupriya2/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE-cosmic-horizon-fcb6d87069f2?source=rss-10e84f172f22------2)
+- [Тестовая сеть Pool Party](https://medium.com/@MikhailKupriya2/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-pool-party-52d829729bb2?source=rss-10e84f172f22------2)
+- [Детали Stride Airdrop](https://medium.com/@MikhailKupriya2/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D0%B8-stride-airdrop-e10c2d568dca?source=rss-10e84f172f22------2)
+<!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
