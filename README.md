@@ -24,8 +24,8 @@
 
   <div id="header" align="left"><h3>My last medium post:</h3>
   <!-- BLOG-POST-LIST:START -->
-- [Sei заключила партнерство с KYVE для создания решений по передаче и хранению данных](https://medium.com/@MikhailKupriya2/sei-has-partnered-with-kyve-to-enable-data-feed-and-storage-solutions-984afa311d61?source=rss-10e84f172f22------2)
-<!-- BLOG-POST-LIST:END -->
+  
+  <!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
