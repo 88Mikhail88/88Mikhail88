@@ -25,7 +25,7 @@
 
 ### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Старт liquid staking Stride](https://medium.com/@MikhailKupriya2/liquid-staking-stride-17d80ce1aba8?source=rss-10e84f172f22------2)
+- [Обновление программы Ambassador!](https://medium.com/@MikhailKupriya2/ambassador-eac40fe72875?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
