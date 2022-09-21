@@ -28,11 +28,6 @@
 - [Обновление программы Ambassador!](https://medium.com/@MikhailKupriya2/ambassador-eac40fe72875?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
-### My last teletype post :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-  
   <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
 <img src="https://komarev.com/ghpvc/?username=88Mikhail88&style=flat-square&color=blue" alt=""/>
