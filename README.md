@@ -29,9 +29,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### My last teletype post :
-<!-- 2BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- 2BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
   
   <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
