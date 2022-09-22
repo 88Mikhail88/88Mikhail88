@@ -29,7 +29,7 @@
 
 *Currently I write **#VestnikGuru in Telegram channel [NodesGuruNews](https://t.me/NodesGuruNews)**, here you can find actual information about **testnets**, **nodes** and different **crypto activities**.*
 
-*I closely monitor **every validator installed - 24|7 management & monitoring** [Tenderduty & Grafana & discord + telegram alerts]*
+*I closely monitor **every validator installed - 24|7 management & monitoring** [Tenderduty & Grafana | discord + telegram alerts]*
 
   ---
   
