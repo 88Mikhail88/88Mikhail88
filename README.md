@@ -1,5 +1,5 @@
 ---
-<div id="header" align="right">
+<div id="header" align="center">
 <h3>Home Validator</h3>
 
 ---
