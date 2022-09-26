@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Обновление программы Ambassador!](https://medium.com/@MikhailKupriya2/ambassador-eac40fe72875?source=rss-10e84f172f22------2)
+- [Founder NFTs Cosmic Horizon](https://medium.com/@MikhailKupriya2/founder-nfts-cosmic-horizon-2adeb279d1fa?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
