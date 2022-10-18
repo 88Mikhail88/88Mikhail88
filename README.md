@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Что такое Cosmic Horizon](https://medium.com/@MikhailKupriya2/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-cosmic-horizon-3ce54149fe12?source=rss-10e84f172f22------2)
+- [Основы KYVE](https://medium.com/@MikhailKupriya2/kyve-fundamentals-7c51c4e9130d?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
