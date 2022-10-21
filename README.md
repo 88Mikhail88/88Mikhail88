@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Основы KYVE](https://medium.com/@MikhailKupriya2/kyve-fundamentals-7c51c4e9130d?source=rss-10e84f172f22------2)
+- [Stride](https://medium.com/@MikhailKupriya2/stride-a6691c9895e5?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
