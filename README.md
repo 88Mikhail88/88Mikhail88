@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Stride](https://medium.com/@MikhailKupriya2/stride-a6691c9895e5?source=rss-10e84f172f22------2)
+- [Liquid Staking — инструкция по применению](https://medium.com/@MikhailKupriya2/liquid-staking-207bc8dffaed?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
