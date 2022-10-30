@@ -40,11 +40,6 @@
 - [Подача gentx Defund-private-2](https://teletype.in/@kupriianov88/6gnPmQnLxw3?utm_source=teletype&utm_medium=feed_rss&utm_campaign=kupriianov88)
 <!-- BLOG-POST-LIST:END -->
 
-#### My last teletype post :
-<!-- BLOG1-POST-LIST:START -->
-
-<!-- BLOG1-POST-LIST:END -->
-
   <div id="header" align="right"><h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=88Mikhail88&amp;show_icons=true" alt="GitHub Stats"></p>
 <img src="https://komarev.com/ghpvc/?username=88Mikhail88&style=flat-square&color=blue" alt=""/>
