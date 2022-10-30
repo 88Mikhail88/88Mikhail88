@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-8c53d8072434?source=rss-10e84f172f22------2)
+- [Подача gentx Defund-private-2](https://teletype.in/@kupriianov88/6gnPmQnLxw3?utm_source=teletype&utm_medium=feed_rss&utm_campaign=kupriianov88)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
