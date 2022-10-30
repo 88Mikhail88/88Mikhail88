@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "1"
-          feed_list: "https://medium.com/feed/@MikhailKupriya2","https://teletype.in/rss/kupriianov88"
+          feed_list: "https://teletype.in/rss/kupriianov88"
