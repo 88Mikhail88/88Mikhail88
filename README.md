@@ -35,7 +35,7 @@
   
 <div id="header" align="left">
 
-#### My last medium post :
+#### My last medium and teletype posts :
 <!-- BLOG-POST-LIST:START -->
 - [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-8c53d8072434?source=rss-10e84f172f22------2)
 - [Подача gentx Defund-private-2](https://teletype.in/@kupriianov88/6gnPmQnLxw3?utm_source=teletype&utm_medium=feed_rss&utm_campaign=kupriianov88)
