@@ -35,7 +35,7 @@
   
 <div id="header" align="left">
 
-#### My last medium and teletype posts :
+#### My last medium post :
 <!-- BLOG-POST-LIST:START -->
 - [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-1534ecd31c4f?source=rss-10e84f172f22------2)
 - [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-9bab474056a?source=rss-10e84f172f22------2)
