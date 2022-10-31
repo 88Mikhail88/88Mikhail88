@@ -37,8 +37,8 @@
 
 #### My last medium and teletype posts :
 <!-- BLOG-POST-LIST:START -->
+- [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-1534ecd31c4f?source=rss-10e84f172f22------2)
 - [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-9bab474056a?source=rss-10e84f172f22------2)
-- [Gameplay Cosmic Horizon](https://medium.com/@MikhailKupriya2/g-8c53d8072434?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
