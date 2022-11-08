@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Saga и MetaGameHub объявляют о стратегическом партнерстве](https://medium.com/@MikhailKupriya2/s-bf9c4ede15c5?source=rss-10e84f172f22------2)
+- [Saga и Pala стратегическое партнерство](https://medium.com/@MikhailKupriya2/s-683c7196ad4c?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
