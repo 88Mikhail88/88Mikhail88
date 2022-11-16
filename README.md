@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Представляем Вам Neutron](https://medium.com/@MikhailKupriya2/h-9d5e2efc956d?source=rss-10e84f172f22------2)
+- [Запуск Quark Testnet](https://medium.com/@MikhailKupriya2/q-447e97174be1?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
