@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Запуск Quark Testnet](https://medium.com/@MikhailKupriya2/q-447e97174be1?source=rss-10e84f172f22------2)
+- [Стратегическое партнерство Saga и Empower](https://medium.com/@MikhailKupriya2/e-895f167eb18d?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
