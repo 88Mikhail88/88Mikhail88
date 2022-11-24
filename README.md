@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Стратегическое партнерство Saga и Empower](https://medium.com/@MikhailKupriya2/e-895f167eb18d?source=rss-10e84f172f22------2)
+- [NymConnect](https://medium.com/@MikhailKupriya2/n-62f1fdb7023b?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
