@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [NymConnect](https://medium.com/@MikhailKupriya2/n-62f1fdb7023b?source=rss-10e84f172f22------2)
+- [S](https://medium.com/@MikhailKupriya2/s-70e32ec46703?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
