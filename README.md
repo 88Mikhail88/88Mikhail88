@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial предоставления ликвидности для пула StOSMO](https://medium.com/@MikhailKupriya2/t-3d0f88dc6ecb?source=rss-10e84f172f22------2)
+- [S](https://medium.com/@MikhailKupriya2/s-41864b4e6add?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
