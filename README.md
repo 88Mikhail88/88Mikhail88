@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [S](https://medium.com/@MikhailKupriya2/s-70e32ec46703?source=rss-10e84f172f22------2)
+- [Inter-Pool Security: Достижение максимальной безопасности для данных в пулах KYVE](https://medium.com/@MikhailKupriya2/i-942de66db77b?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
