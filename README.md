@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Стратегическое партнерство Saga и TallyUP](https://medium.com/@MikhailKupriya2/s-518d59d31273?source=rss-10e84f172f22------2)
+- [Стратегическое партнерство Saga и Champion Games](https://medium.com/@MikhailKupriya2/s-db68b35cb50e?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
