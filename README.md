@@ -37,7 +37,7 @@
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [С](https://medium.com/@MikhailKupriya2/%D1%81-437f1992d82a?source=rss-10e84f172f22------2)
+- [S](https://medium.com/@MikhailKupriya2/s-54de31ab568e?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
