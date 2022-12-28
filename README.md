@@ -39,17 +39,17 @@
 You will find information about the projects in which i contribute and what useful things have prepared for the community.
 
 | Project | URL                                                                       |
-|---------|---------------------------------------------------------------------------|
-| Defund  | https://github.com/88Mikhail88/My_Testnets/tree/main/Defund               |
-| Gaia    | https://github.com/88Mikhail88/My_Testnets/tree/main/Gaia                 |
-| Haqq    | https://github.com/88Mikhail88/My_Testnets/tree/main/Haqq                 |
-| Kyve    | https://github.com/88Mikhail88/My_Testnets/tree/main/KYVE                 |
-| Neutron | https://github.com/88Mikhail88/My_Testnets/tree/main/Neutron              |
-| Nibiru  | https://github.com/88Mikhail88/My_Testnets/tree/main/Nibiru               |
-| Nolus   | https://github.com/88Mikhail88/My_Testnets/tree/main/Nolus                |
-| Okp4    | https://github.com/88Mikhail88/My_Testnets/tree/main/Okp4                 |
-| Sei     | https://github.com/88Mikhail88/My_Testnets/tree/main/Sei                  |
-| Stride  | https://github.com/88Mikhail88/My_Testnets/tree/main/Stride               |
+|-----------------------------------|--------------------------------------------------------------|
+| [Defund](https://www.defund.app/) | https://github.com/88Mikhail88/My_Testnets/tree/main/Defund  |
+| [Gaia]()                          | https://github.com/88Mikhail88/My_Testnets/tree/main/Gaia    |
+| [Haqq](https://islamiccoin.net/)  | https://github.com/88Mikhail88/My_Testnets/tree/main/Haqq    |
+| [Kyve](https://www.kyve.network/) | https://github.com/88Mikhail88/My_Testnets/tree/main/KYVE    |
+| [Neutron](https://neutron.org/)   | https://github.com/88Mikhail88/My_Testnets/tree/main/Neutron |
+| [Nibiru](https://nibiru.fi/)      | https://github.com/88Mikhail88/My_Testnets/tree/main/Nibiru  |
+| [Nolus](https://nolus.io/)        | https://github.com/88Mikhail88/My_Testnets/tree/main/Nolus   |
+| [Okp4](https://okp4.network/)     | https://github.com/88Mikhail88/My_Testnets/tree/main/Okp4    |
+| [Sei](https://www.seinetwork.io/) | https://github.com/88Mikhail88/My_Testnets/tree/main/Sei     |
+| [Stride](https://stride.zone/)    | https://github.com/88Mikhail88/My_Testnets/tree/main/Stride  |
 
 <div id="header" align="left">
 
