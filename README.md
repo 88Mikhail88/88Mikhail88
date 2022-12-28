@@ -32,7 +32,25 @@
 *I closely monitor **every validator installed - 24|7 management & monitoring** [Tenderduty & Grafana | discord + telegram alerts]*
 
   ---
-  
+
+    
+### Contributing project
+
+You will find information about the projects in which i contribute and what useful things have prepared for the community.
+
+| Project | URL                                                                       |
+|---------|---------------------------------------------------------------------------|
+| Defund  | https://github.com/88Mikhail88/My_Testnets/tree/main/Defund               |
+| Gaia    | https://github.com/88Mikhail88/My_Testnets/tree/main/Gaia                 |
+| Haqq    | https://github.com/88Mikhail88/My_Testnets/tree/main/Haqq                 |
+| Kyve    | https://github.com/88Mikhail88/My_Testnets/tree/main/KYVE                 |
+| Neutron | https://github.com/88Mikhail88/My_Testnets/tree/main/Neutron              |
+| Nibiru  | https://github.com/88Mikhail88/My_Testnets/tree/main/Nibiru               |
+| Nolus   | https://github.com/88Mikhail88/My_Testnets/tree/main/Nolus                |
+| Okp4    | https://github.com/88Mikhail88/My_Testnets/tree/main/Okp4                 |
+| Sei     | https://github.com/88Mikhail88/My_Testnets/tree/main/Sei                  |
+| Stride  | https://github.com/88Mikhail88/My_Testnets/tree/main/Stride               |
+
 <div id="header" align="left">
 
 #### My last medium post :
