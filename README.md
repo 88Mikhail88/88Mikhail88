@@ -55,7 +55,7 @@ You will find information about the projects in which i contribute and what usef
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Стратегическое партнерство Saga и Picksels](https://medium.com/@MikhailKupriya2/p-e9ab2ee7488b?source=rss-10e84f172f22------2)
+- [Токеномика STRD: Обновления и разъяснения](https://medium.com/@MikhailKupriya2/s-d7dec5b43a94?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
