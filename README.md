@@ -55,7 +55,7 @@ You will find information about the projects in which i contribute and what usef
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Токеномика STRD: Обновления и разъяснения](https://medium.com/@MikhailKupriya2/s-d7dec5b43a94?source=rss-10e84f172f22------2)
+- [KYVE начинает 2023 год с нового веб-сайта, иллюстрирующего Tech Stack и миссию по созданию…](https://medium.com/@MikhailKupriya2/k-194a24dc7eb6?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
