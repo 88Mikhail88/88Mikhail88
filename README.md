@@ -40,16 +40,16 @@ You will find information about the projects in which i contribute and what usef
 
 | Project | URL                                                                                                        |                                |
 |-----------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------|
-| [Defund](https://www.defund.app/) | [DeFund Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Defund)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Gaia]()                          | [Gaia Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Gaia)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Haqq](https://islamiccoin.net/)  | [Haqq Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Haqq)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Kyve](https://www.kyve.network/) | [KYVE Services](https://github.com/88Mikhail88/My_Testnets/tree/main/KYVE)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Neutron](https://neutron.org/)   | [Neutron Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Neutron) | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Nibiru](https://nibiru.fi/)      | [Nibiru Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Nibiru)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Nolus](https://nolus.io/)        | [Nolus Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Nolus)     | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Okp4](https://okp4.network/)     | [Okp4 Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Okp4)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Sei](https://www.seinetwork.io/) | [Sei Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Sei)         | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
-| [Stride](https://stride.zone/)    | [Stride Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Stride)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook*       |
+| [Defund](https://www.defund.app/) | [DeFund Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Defund)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Gaia]()                          | [Gaia Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Gaia)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Haqq](https://islamiccoin.net/)  | [Haqq Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Haqq)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Kyve](https://www.kyve.network/) | [KYVE Services](https://github.com/88Mikhail88/My_Testnets/tree/main/KYVE)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Neutron](https://neutron.org/)   | [Neutron Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Neutron) | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Nibiru](https://nibiru.fi/)      | [Nibiru Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Nibiru)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Nolus](https://nolus.io/)        | [Nolus Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Nolus)     | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Okp4](https://okp4.network/)     | [Okp4 Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Okp4)       | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Sei](https://www.seinetwork.io/) | [Sei Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Sei)         | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
+| [Stride](https://stride.zone/)    | [Stride Services](https://github.com/88Mikhail88/My_Testnets/tree/main/Stride)   | *State Sync, Monitoring-alerting, Install node, Auto_restake, Update, addrbook, etc*       |
 
 <div id="header" align="left">
 
