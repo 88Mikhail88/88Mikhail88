@@ -55,7 +55,7 @@ You will find information about the projects in which i contribute and what usef
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [KYVE начинает 2023 год с нового веб-сайта, иллюстрирующего Tech Stack и миссию по созданию…](https://medium.com/@MikhailKupriya2/k-194a24dc7eb6?source=rss-10e84f172f22------2)
+- [Goracle Incentivized Testnet](https://medium.com/@MikhailKupriya2/goracle-incentivized-testnet-4bec770e65e2?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
