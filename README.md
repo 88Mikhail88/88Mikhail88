@@ -55,7 +55,7 @@ You will find information about the projects in which i contribute and what usef
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Goracle Incentivized Testnet](https://medium.com/@MikhailKupriya2/goracle-incentivized-testnet-4bec770e65e2?source=rss-10e84f172f22------2)
+- [Bia Testnet &amp; Программа Амбассодоров Obol](https://medium.com/@MikhailKupriya2/b-b87aa4c1f16c?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
