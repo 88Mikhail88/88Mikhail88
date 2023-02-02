@@ -55,7 +55,7 @@ You will find information about the projects in which i contribute and what usef
 
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Bia Testnet &amp; Программа Амбассодоров Obol](https://medium.com/@MikhailKupriya2/b-b87aa4c1f16c?source=rss-10e84f172f22------2)
+- [Obol привлекает $12,5 млн для децентрализации инфраструктуры Стейкинга Ethereum](https://medium.com/@MikhailKupriya2/o-cfcbae90c3e5?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
