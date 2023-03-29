@@ -33,6 +33,8 @@
 
   ---
     
+#### [My Mirror](https://mirror.xyz/0x8095b458D5D1B5a67081C4b4D5bf63c5704e85F2)
+    
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
 - [Obol привлекает $12,5 млн для децентрализации инфраструктуры Стейкинга Ethereum](https://medium.com/@MikhailKupriya2/o-cfcbae90c3e5?source=rss-10e84f172f22------2)
