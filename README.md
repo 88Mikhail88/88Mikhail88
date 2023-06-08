@@ -27,8 +27,6 @@
 
 *My name is **Mikhail Kupriianov**, I am an **individual validator** and **blockchain enthusiast**.*
 
-*Currently I write **#VestnikGuru in Telegram channel's [Nodes.Guru.News](https://t.me/NodesGuruNews) and [Nodes.Guru.News.EN](https://t.me/NodesGuruNews_ENG)**, here you can find actual information about **testnets**, **nodes** and different **crypto activities**.*
-
 *I closely monitor **every validator installed - 24|7 management & monitoring** [Tenderduty & Grafana | discord + telegram alerts]*
 
   ---
