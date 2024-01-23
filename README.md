@@ -35,7 +35,7 @@
     
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Дорожная карта Okp4](https://medium.com/@MikhailKupriya2/%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-okp4-8c717b989515?source=rss-10e84f172f22------2)
+- [OKP4 Whitepaper [1/5]](https://medium.com/@MikhailKupriya2/okp4-whitepaper-1-5-1a76a0726812?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
