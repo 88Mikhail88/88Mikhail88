@@ -35,7 +35,7 @@
     
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [OKP4 Whitepaper [1/5]](https://medium.com/@MikhailKupriya2/okp4-whitepaper-1-5-1a76a0726812?source=rss-10e84f172f22------2)
+- [OKP4 Whitepaper [2/5]](https://medium.com/@MikhailKupriya2/okp4-whitepaper-2-5-b6bbf895f08f?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
