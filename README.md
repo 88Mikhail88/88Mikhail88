@@ -35,7 +35,7 @@
     
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [OKP4 Whitepaper [2/5]](https://medium.com/@MikhailKupriya2/okp4-whitepaper-2-5-b6bbf895f08f?source=rss-10e84f172f22------2)
+- [Airdrop для холдеров stDYM](https://medium.com/@MikhailKupriya2/airdrop-%D0%B4%D0%BB%D1%8F-%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D0%BE%D0%B2-stdym-97a948867c3f?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
