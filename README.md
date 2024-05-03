@@ -35,7 +35,7 @@
     
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Airdrop для холдеров stDYM](https://medium.com/@MikhailKupriya2/airdrop-%D0%B4%D0%BB%D1%8F-%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D0%BE%D0%B2-stdym-97a948867c3f?source=rss-10e84f172f22------2)
+- [Copy-Staking: нейтральный подход к делегированию](https://medium.com/@MikhailKupriya2/copy-staking-%D0%BD%D0%B5%D0%B9%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-27828476795a?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
