@@ -16,7 +16,7 @@
   <a href="https://t.me/kupriianov88">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://teletype.in/@kupriianov88">
+  <a href="https://teletype.in/@mike-888">
     <img src="https://img.shields.io/badge/Teletype-black?logo=Teletype&logoColor=white" alt="Teletype Badge"/>
   </a>
   </div>
