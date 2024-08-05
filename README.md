@@ -35,7 +35,7 @@
     
 #### My last medium post :
 <!-- BLOG-POST-LIST:START -->
-- [Взгляд в небо: Сотрудничество Stride и Stargaze](https://medium.com/@MikhailKupriya2/%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-%D0%B2-%D0%BD%D0%B5%D0%B1%D0%BE-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-stride-%D0%B8-stargaze-218802e6fbf5?source=rss-10e84f172f22------2)
+- [Челендж Celestia Light Node](https://medium.com/@MikhailKupriya2/%D1%87%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6-celestia-light-node-c2bd03f56bf1?source=rss-10e84f172f22------2)
 <!-- BLOG-POST-LIST:END -->
 
   <div id="header" align="right"><h3>GitHub Stats</h3>
